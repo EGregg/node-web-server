@@ -1,6 +1,7 @@
 # node-web-server
 
-Assignment: Setup a web server using node utilizing express.js, handlebars library, and some middleware
+##Assignment: 
+Setup a web server using node utilizing express.js, handlebars library, and middleware
 
 download the repo
 
